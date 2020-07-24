@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dudleycarr/nsqjs.git"
+    "url": "https://github.com/npm/nsqjs.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/npm"
+    "registry": "https://npm.pkg.github.com/dudleycarr"
   },
   "bugs": {
     "url": "https://github.com/dudleycarr/nsqjs/issues"
